@@ -1,0 +1,19 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: aqua;
+}
+.open{
+    display: flex;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+.book{
+    margin-left: 300px;
+}
+.ba{
+    background-color: blueviolet;
+}
+.mm{
+    background-color: rgb(61, 61, 93);
+}
